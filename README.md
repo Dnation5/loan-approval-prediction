@@ -2,7 +2,7 @@
 A beginner-level project predicting loan approvals using Python
 # Loan Approval Prediction
 
-This project explores data preprocessing, imputation (LOCF, NOCB), interpolation, and modeling to predict whether a loan should be approved.
+This project explores data preprocessing, imputation, and modeling to predict whether a loan should be approved.
 
 ## Technologies
 - Python
